@@ -5,7 +5,7 @@
 ```git config --global user.name "hunvely"```  
 ```git config --global user.email "example@example.com"```  
 #### 로컬 프로젝트에 적용(--local)
-``` git config --local user.name "hunvely```  
+``` git config --local user.name "hunvely"```  
 ``` git config --local user.name "example@example.com"```  
 
 ### 2. git config 설정 확인  
