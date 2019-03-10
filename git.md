@@ -8,7 +8,7 @@
 ``` git config --local user.name "hunvely```  
 ``` git config --local user.name "example@example.com"```  
 
-### 2. git config 설정 학인  
+### 2. git config 설정 확인  
 ```git config --list```
 
 <br/>
