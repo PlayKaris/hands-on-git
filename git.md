@@ -29,8 +29,11 @@
 ### 4. Stage > Head로 커밋방법  
 ```git commit -m "설명"```
 
-### 5. 변경 내용 발행(push)하기  
-```git push origin master```
+### 5. 변경 내용 PUSH 하기
+#### 기존 PUSH  
+```git push origin master```  
+#### 강제 PUSH (+)
+```git push origin +master```  
 
 ### 6. 원격 저장소 연결  
 ```git remote add origin <원격 서버 주소>```
