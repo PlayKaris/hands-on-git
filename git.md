@@ -1,8 +1,12 @@
 # GIT config 설정
 
-### 1. 커밋할 때 입력되는 사용자의 이메일과 이름정보를 등록하는 방법  
+### 1. 커밋할 때 입력되는 사용자의 이메일과 이름정보를 등록하는 방법 
+#### 모든 프로젝트에 적용(--global)  
 ```git config --global user.name "hunvely"```  
-```git config --global user.email "example@example.com"```
+```git config --global user.email "example@example.com"```  
+#### 로컬 프로젝트에 적용(--local)
+``` git config --local user.name "hunvely```  
+``` git config --local user.name "example@example.com"```  
 
 ### 2. git config 설정 학인  
 ```git config --list```
