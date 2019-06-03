@@ -46,6 +46,7 @@
 
 ### 9. 원격 저장소에 있는 소스를 가져와 자동 병합
 ```git pull ```
+```git pull origin master```
 
 <br/>
 <br/>
