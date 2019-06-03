@@ -45,7 +45,7 @@
 ```git remote set-url origin <원격 서버 주소>```
 
 ### 9. 원격 저장소에 있는 소스를 가져와 자동 병합
-```git pull ```
+```git pull ```<br/>
 ```git pull origin master```
 
 <br/>
